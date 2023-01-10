@@ -1,8 +1,9 @@
 ![GIF](assets/githubprofilevid2.gif)
 
 ### Hello there 👋
-I'm Adam, an engineering student at Texas A&M University planning to go into aerospace engineering.
-I'm currently working on [Project Icarus](adamzhen.github.io/Project-Icarus-Official) - an interactive, educational website on NASA's Parker Solar Probe.
+- I'm Adam, a freshman engineering student at Texas A&M University planning to go into aerospace engineering.
+- I'm currently working on [Project Icarus](adamzhen.github.io/Project-Icarus-Official) - an interactive, educational website on NASA's Parker Solar Probe.
+- Oh, and in case you couldn't tell, I'm also in the middle of working on this README
 
 🤙 Reach me at:
 [LinkedIn](https://www.linkedin.com/in/adam-zheng/)
