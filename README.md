@@ -1,6 +1,5 @@
 <div align="center">
   <img src="assets/githubprofilevid2.gif" alt="Intro GIF">
-  <hr>
 </div>
 
 ### Hello there 👋
@@ -12,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-zheng/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adamzheng)
 
+<!--- 
 <div align="left">
 	<hr>
   <table align="center">
@@ -21,3 +21,5 @@
       </tr>
   </table>
 </div>
+--->
+
