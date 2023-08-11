@@ -3,10 +3,11 @@
 </div>
 
 ### Hello there 👋
-I'm Adam, a freshman at Texas A&M University planning to go into aerospace engineering.
+I'm Adam, a sophomore at Texas A&M University studying aerospace engineering.
+- Former NASA MSFC Intern
 - Currently working on [Project Icarus](https://adamzhen.github.io/Project-Icarus-Official/) - an interactive, educational website on NASA's Parker Solar Probe
+- On a design team designing an indoor positioning device for the HERA facility at JSC (see [Team-Vestigo](https://github.com/adamzhen/Team-Vestigo))
 - On a research team optimizing the biodegradibility of plastic forks using finite element analysis (see [FOODS-Scripts](https://github.com/adamzhen/FOODS-Scripts))
-- Oh, and in case you couldn't tell, I'm also still in the middle of working on this README
 
 ### Connect with me 🤙
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-zheng/)
