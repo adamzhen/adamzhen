@@ -3,9 +3,10 @@
 </div>
 
 ### Hello there 👋
-I'm Adam, a sophomore at Texas A&M University studying aerospace engineering.
+I'm Adam, a sophomore aerospace engineer at Texas A&M University, passionate about space exploration ✨
 - Former NASA MSFC Intern
-- Currently working on [Project Icarus](https://adamzhen.github.io/Project-Icarus-Official/) - an interactive, educational website on NASA's Parker Solar Probe
+- Creator of [Project Icarus](https://adamzhen.github.io/Project-Icarus-Official/) - an interactive, educational website on NASA's Parker Solar Probe
+- On the Avionics & Controls (AVI) subteam of the TAMU Rocket Engine Design Team (see [TAMU-RED-AVI](https://github.com/TAMU-RED-AVI/TAMU-RED-AVI))
 - On a design team designing an indoor positioning device for the HERA facility at JSC (see [Team-Vestigo](https://github.com/adamzhen/Team-Vestigo))
 - On a research team optimizing the biodegradibility of plastic forks using finite element analysis (see [FOODS-Scripts](https://github.com/adamzhen/FOODS-Scripts))
 
