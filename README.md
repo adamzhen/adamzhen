@@ -15,36 +15,27 @@ I'm Adam, a sophomore aerospace engineer at Texas A&M University, passionate abo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-zheng/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adamzheng)
 
-<!--- 
-<div align="left">
-	<hr>
-  <table align="center">
-      <tr>
-        <td><img alt="Adams's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adamzhen&theme=prussian&count_private=true&hide=stars&include_all_commits=true&show_icons=true"></td>
-        <td><img alt="Adam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzhen&theme=prussian&langs_count=10&layout=compact&hide=applescript,shell,dockerfile,powershell,markdown" /></td>
-      </tr>
-  </table>
-</div>
-<hr>
---->
-
 ### Languages and Tools 🛠️
 ![Python][Python]
 ![JavaScript][JavaScript]
 ![HTML][HTML]
 ![CSS][CSS]
+![C][C]
 ![C++][C++]
-![Lua][Lua]
 ![Jupyter][Jupyter]
 [![PySPEDAS][PySPEDAS]][PySPEDAS-url]
 [![AstroPy][ASTROPY]](http://www.astropy.org/)
 ![scikit-learn][scikit-learn]
+![TensorFlow][TensorFlow]
 ![Matplotlib][Matplotlib]
 ![SciPy][SciPy]
 ![NumPy][NumPy]
+![Arduino][Arduino]
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adamzhen)](https://git.io/streak-stats)
 <!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adamzhen&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Adam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamzhen)](https://github.com/adamzhen/github-readme-stats)
 -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -66,6 +57,7 @@ I'm Adam, a sophomore aerospace engineer at Texas A&M University, passionate abo
 [JavaScript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[C]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
 [C++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [Lua]: https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white
 [Jupyter]: https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
@@ -76,3 +68,5 @@ I'm Adam, a sophomore aerospace engineer at Texas A&M University, passionate abo
 [Matplotlib]: https://img.shields.io/badge/Matplotlib-%23eeeeee.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
 [SciPy]: https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white
 [NumPy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
+[TensorFlow]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
+[Arduino]: https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
