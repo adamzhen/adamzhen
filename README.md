@@ -39,7 +39,7 @@ I'm Adam, a sophomore aerospace engineer at Texas A&M University, passionate abo
 -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
 [contributors-shield]: https://img.shields.io/github/contributors/adamzhen/Project-Icarus-Official.svg?style=for-the-badge
 [contributors-url]: https://github.com/adamzhen/Project-Icarus-Official/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/adamzhen/Project-Icarus-Official.svg?style=for-the-badge
