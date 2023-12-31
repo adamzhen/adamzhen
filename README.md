@@ -5,10 +5,11 @@
 ### Howdy 👋
 I'm Adam, a sophomore aerospace engineer at Texas A&M University, passionate about space exploration ✨
 - Former NASA MSFC Intern
-- Creator of [Project Icarus](https://adamzhen.github.io/Project-Icarus-Official/) - an interactive, educational website on NASA's Parker Solar Probe
-- On the Avionics & Controls (AVI) subteam of the TAMU Rocket Engine Design Team (see [TAMU-RED-AVI](https://github.com/TAMU-RED-AVI/TAMU-RED-AVI))
-- On a design team designing an indoor tracking system for the HERA facility at JSC (see [Team-Vestigo](https://github.com/adamzhen/Team-Vestigo))
-- On a research team optimizing the biodegradibility of plastic forks using finite element analysis (see [FOODS-Scripts](https://github.com/adamzhen/FOODS-Scripts))
+- Creator of [Project Icarus](https://adamzhen.github.io/Project-Icarus-Official/) | An interactive, educational website on NASA's Parker Solar Probe
+- Fully-Optimized Organic-Inspired Degradable Structures (FOODS) | Research team optimizing the biodegradibility of plastic forks using FEA (see [FOODS-Scripts](https://github.com/adamzhen/FOODS-Scripts))
+- Team Viva Aqua | Pale Blue Dot Visualization Challenge (see [aquaViva](https://github.com/franfurey/aquaViva))
+- Team Vestigo | Crew Tracking for Space Analog Research (see [Team-Vestigo](https://github.com/adamzhen/Team-Vestigo))
+- Avionics & Controls (AVI) subteam | TAMU Rocket Engine Design Team (see [TAMU-RED-AVI](https://github.com/TAMU-RED-AVI/TAMU-RED-AVI))
 
 ### Connect with me 🤙
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-zheng/)
