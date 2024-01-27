@@ -5,8 +5,8 @@
 ### Howdy 👋
 I'm Adam, a sophomore aerospace engineer at Texas A&M University, passionate about space exploration ✨
 - Former NASA MSFC Intern
-- NASA Pale Blue Dot Visualization Challenge | Mapping out groundwater level using machine learning (see [aquaViva](https://franfurey.github.io/aquaViva/))
-- Creator of [Project Icarus](https://adamzhen.github.io/Project-Icarus-Official/) | An interactive, educational website on NASA's Parker Solar Probe
+- [Aqua Viva](https://franfurey.github.io/aquaViva/) | Mapping out groundwater level using machine learning and satellite/climatic data
+- [Project Icarus](https://adamzhen.github.io/Project-Icarus-Official/) | An interactive, educational website on NASA's Parker Solar Probe
 - Fully-Optimized Organic-Inspired Degradable Structures (FOODS) | Research team optimizing the biodegradibility of plastic forks using FEA (see [FOODS-Scripts](https://github.com/adamzhen/FOODS-Scripts))
 - Team Vestigo | Crew Tracking for Space Analog Research (see [Team-Vestigo](https://github.com/adamzhen/Team-Vestigo))
 - Avionics & Controls (AVI) subteam | TAMU Rocket Engine Design Team (see [TAMU-RED-AVI](https://github.com/TAMU-RED-AVI/TAMU-RED-AVI))
