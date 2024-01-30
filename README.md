@@ -4,12 +4,13 @@
 
 ### Howdy 👋
 I'm Adam, a sophomore aerospace engineer at Texas A&M University, passionate about space exploration ✨
-- Former NASA MSFC Intern
+- Former NASA MSFC Systems Engineering Intern
 - [Aqua Viva](https://franfurey.github.io/aquaViva/) | Mapping out groundwater level using machine learning and satellite/climatic data
+- [climateservAccess](https://pypi.org/project/climateservaccess/) | A Python library I wrote and published on PyPI for accessing the ClimateSERV API 
 - [Project Icarus](https://adamzhen.github.io/Project-Icarus-Official/) | An interactive, educational website on NASA's Parker Solar Probe
 - Fully-Optimized Organic-Inspired Degradable Structures (FOODS) | Research team optimizing the biodegradibility of plastic forks using FEA (see [FOODS-Scripts](https://github.com/adamzhen/FOODS-Scripts))
 - Team Vestigo | Crew Tracking for Space Analog Research (see [Team-Vestigo](https://github.com/adamzhen/Team-Vestigo))
-- Avionics & Controls (AVI) subteam | TAMU Rocket Engine Design Team (see [TAMU-RED-AVI](https://github.com/TAMU-RED-AVI/TAMU-RED-AVI))
+- Avionics & Controls Subteam | TAMU Rocket Engine Design Team (see [TAMU-RED-AVI](https://github.com/TAMU-RED-AVI/TAMU-RED-AVI))
 
 ### Connect with me 🤙
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-zheng/)
