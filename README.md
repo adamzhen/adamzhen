@@ -3,9 +3,8 @@
 </div>
 
 ### Howdy 👋
-I'm Adam, a sophomore aerospace engineer at Texas A&M University, passionate about space exploration ✨
-- Former NASA MSFC Systems Engineering Intern
-- [Aqua Viva](https://franfurey.github.io/aquaViva/) | Mapping out groundwater level using machine learning and satellite/climatic data
+I'm Adam, a junior aerospace engineer at Texas A&M University, passionate about space exploration ✨
+- [Aqua Viva](https://franfurey.github.io/aquaViva/) | Best Overall, NASA Pale Blue Dot Challenge | Mapping out groundwater level using machine learning and satellite/climatic data
 - [climateservAccess](https://pypi.org/project/climateservaccess/) | A Python library I wrote and published on PyPI for accessing the ClimateSERV API 
 - [Project Icarus](https://adamzhen.github.io/Project-Icarus-Official/) | An interactive, educational website on NASA's Parker Solar Probe
 - Fully-Optimized Organic-Inspired Degradable Structures (FOODS) | Research team optimizing the biodegradibility of plastic forks using FEA (see [FOODS-Scripts](https://github.com/adamzhen/FOODS-Scripts))
@@ -13,6 +12,7 @@ I'm Adam, a sophomore aerospace engineer at Texas A&M University, passionate abo
 - Avionics & Controls Subteam | TAMU Rocket Engine Design Team (see [TAMU-RED-AVI](https://github.com/TAMU-RED-AVI/TAMU-RED-AVI))
 
 ### Connect with me 🤙
+[![Website](https://img.shields.io/badge/Website-c7e7ff?style=for-the-badge&logo=rocket&logoColor=blue)](https://adamzheng.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-zheng/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adamzheng)
 
