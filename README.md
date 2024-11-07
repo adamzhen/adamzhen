@@ -33,9 +33,8 @@ I'm Adam, a junior aerospace engineer at Texas A&M University, passionate about 
 ![NumPy][NumPy]
 ![Arduino][Arduino]
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adamzhen)](https://git.io/streak-stats)
 <!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adamzhen)](https://git.io/streak-stats)
 [![Adam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamzhen)](https://github.com/adamzhen/github-readme-stats)
 -->
 
